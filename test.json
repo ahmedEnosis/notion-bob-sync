@@ -1,0 +1,276 @@
+{
+  "bob": {
+    "fullName": "Ahmed Rad Sakib",
+    "displayName": "Ahmed Rad Sakib",
+    "payroll": {
+      "employment": {
+        "fte": 100,
+        "type": "Permanent",
+        "flsaCode": null,
+        "contract": "Full time",
+        "actualWorkingPattern": {
+          "workingPatternType": "partial_week",
+          "days": {
+            "sunday": false,
+            "tuesday": true,
+            "wednesday": true,
+            "monday": true,
+            "friday": true,
+            "thursday": true,
+            "saturday": false
+          },
+          "hoursPerDay": 8
+        },
+        "calendarId": 1162868,
+        "salaryPayType": "salaried",
+        "workingPattern": null,
+        "activeEffectiveDate": "2021-12-01",
+        "weeklyHours": 40,
+        "siteWorkingPattern": {
+          "workingPatternType": "partial_week",
+          "days": {
+            "sunday": false,
+            "tuesday": true,
+            "wednesday": true,
+            "monday": true,
+            "friday": true,
+            "thursday": true,
+            "saturday": false
+          },
+          "hoursPerDay": 8
+        }
+      }
+    },
+    "personal": {
+      "shortBirthDate": null,
+      "pronouns": null,
+      "communication": {
+        "skypeUsername": null,
+        "slackUsername": null
+      },
+      "honorific": null,
+      "nationality": []
+    },
+    "creationDateTime": "2021-11-25T13:32:20.49905",
+    "work": {
+      "shortStartDate": "12-01",
+      "startDate": "2021-12-01",
+      "manager": "2511243324375958107",
+      "workPhone": null,
+      "tenureDuration": {
+        "periodISO": "P11M24D",
+        "sortFactor": 354,
+        "humanize": "11 months and 24 days"
+      },
+      "durationOfEmployment": {
+        "periodISO": "P11M24D",
+        "sortFactor": 354,
+        "humanize": "11 months and 24 days"
+      },
+      "reportsToIdInCompany": 167,
+      "employeeIdInCompany": 631,
+      "reportsTo": {
+        "displayName": "Ashik Ahmed",
+        "email": "ashik.ahmed@enosisbd.com",
+        "surname": "Ahmed",
+        "firstName": "Ashik",
+        "id": "2511243324375958107"
+      },
+      "workMobile": "01746315742",
+      "indirectReports": null,
+      "department": "Engineering",
+      "siteId": 1115016,
+      "tenureDurationYears": 0.98,
+      "tenureYears": 1,
+      "isManager": false,
+      "title": "Software Engineer - Level 1",
+      "site": "Dhaka",
+      "activeEffectiveDate": "2021-12-01",
+      "directReports": null,
+      "secondLevelManager": "2511243390033593014",
+      "daysOfPreviousService": 0,
+      "yearsOfService": 0.98
+    },
+    "avatarUrl": "https://media-process.hibob.com/image/upload/v1/hibob/avatar/301698/images/66596f84-9bf8-4525-824a-0ae2ab2c2e2c?token=X19jbGRfdG9rZW5fXz1leHA9MTY3MDc1MjcxNn5hY2w9KiUyZmhpYm9iJTJmYXZhdGFyJTJmMzAxNjk4JTJmaW1hZ2VzJTJmNjY1OTZmODQtOWJmOC00NTI1LTgyNGEtMGFlMmFiMmMyZTJjKn5obWFjPTA1ZGM4NDRlZTRiMDc4Zjg1N2MxZTQ5OWVmNDBmODZhNDg0ZjkxYWVjZGIxMWMzM2E0ZmQxMGVmNDlhZGY3MGQ=&vendor=cloudinary",
+    "secondName": null,
+    "about": {
+      "foodPreferences": [],
+      "custom": {
+        "field_1614953052972": null,
+        "field_1615220198724": null
+      },
+      "socialData": {
+        "linkedin": null,
+        "twitter": null,
+        "facebook": null
+      },
+      "superpowers": [],
+      "hobbies": [],
+      "about": null,
+      "avatar": "https://media-process.hibob.com/image/upload/v1/hibob/avatar/301698/images/66596f84-9bf8-4525-824a-0ae2ab2c2e2c?token=X19jbGRfdG9rZW5fXz1leHA9MTY3MDc1MjcxNn5hY2w9KiUyZmhpYm9iJTJmYXZhdGFyJTJmMzAxNjk4JTJmaW1hZ2VzJTJmNjY1OTZmODQtOWJmOC00NTI1LTgyNGEtMGFlMmFiMmMyZTJjKn5obWFjPTA1ZGM4NDRlZTRiMDc4Zjg1N2MxZTQ5OWVmNDBmODZhNDg0ZjkxYWVjZGIxMWMzM2E0ZmQxMGVmNDlhZGY3MGQ=&vendor=cloudinary"
+    },
+    "companyId": 301698,
+    "email": "ahmed.sakib@enosisbd.com",
+    "surname": "Sakib",
+    "employment": {
+      "custom": {
+        "field_1614702052305": "2021-11-24",
+        "field_1614702564518": null,
+        "field_1614702241801": "Q4",
+        "field_1614702999792": null,
+        "field_1614702431920": "2022-11-01",
+        "field_1614702450425": "2022-12-01"
+      }
+    },
+    "firstName": "Ahmed Rad",
+    "id": "2714781037640024982"
+  },
+  "notion": {
+    "object": "page",
+    "id": "1caf36bc-2e90-431b-b07f-2207f8766a02",
+    "created_time": "2022-11-22T11:48:00.000Z",
+    "last_edited_time": "2022-11-24T09:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b9ebfeb-aff4-4167-af05-8d2a17ae77ff"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "4b9ebfeb-aff4-4167-af05-8d2a17ae77ff"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://ca.slack-edge.com/TC169T79C-UDTFDEDC5-c2734757d919-512"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "22ea25ad-225b-42d6-95f0-ddd5e5d736ad"
+    },
+    "archived": false,
+    "properties": {
+      "Job Title": {
+        "id": "9rMz",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SSE-3",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SSE-3",
+            "href": null
+          }
+        ]
+      },
+      "Tenure": {
+        "id": "AGOg",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "4 years 0 months"
+        }
+      },
+      "University": {
+        "id": "CLj%7D",
+        "type": "select",
+        "select": {
+          "id": "ad5eba5f-6b7f-481c-b89b-35bbc7988ee8",
+          "name": "BUET",
+          "color": "red"
+        }
+      },
+      "Future Role": {
+        "id": "Dx%60r",
+        "type": "select",
+        "select": {
+          "id": "532d4436-a2d0-4753-af7a-d4b152a3494d",
+          "name": "DL",
+          "color": "green"
+        }
+      },
+      "Quarter": {
+        "id": "S_Id",
+        "type": "select",
+        "select": {
+          "id": "7e981d98-e2de-4fe3-bb8d-889021e4c6da",
+          "name": "Q-1",
+          "color": "yellow"
+        }
+      },
+      "A. Avg": {
+        "id": "Wvg%7B",
+        "type": "checkbox",
+        "checkbox": true
+      },
+      "Employee ID": {
+        "id": "ch%5EP",
+        "type": "number",
+        "number": 358
+      },
+      "Joined": {
+        "id": "k%2C%5BP",
+        "type": "date",
+        "date": {
+          "start": "2018-11-01",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Location": {
+        "id": "khG%60",
+        "type": "select",
+        "select": {
+          "id": "c05a4dc6-978f-44bb-9c8b-5cc078043be1",
+          "name": "Dhaka",
+          "color": "gray"
+        }
+      },
+      "Project": {
+        "id": "qeOI",
+        "type": "select",
+        "select": {
+          "id": "52e041d0-bd52-46b7-8281-dc22178c59ab",
+          "name": "GMG ArcData",
+          "color": "blue"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Zakaria Ahmed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Zakaria Ahmed",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Zakaria-Ahmed-1caf36bc2e90431bb07f2207f8766a02"
+  }
+
+}

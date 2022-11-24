@@ -1,0 +1,48 @@
+{
+  "fieldMapping": [
+    {
+      "source": "databaseId",
+      "destination": "notion.parent.database_id"
+    },
+    {
+      "source": "notion.id",
+      "destination": "notion.page_id"
+    },
+    {
+      "source": "bob.work.title",
+      "destination": "notion.properties.Job Title.rich_text.0.plain_text"
+    },
+    {
+      "source": "bob.work.title",
+      "destination": "notion.properties.Job Title.rich_text.0.text.content"
+    },
+    {
+      "source": "bob.employment.custom.field_1614702241801",
+      "destination": "notion.properties.Quarter.select.name"
+    },
+    {
+      "source": "bob.avatarUrl",
+      "destination": "notion.icon.external.url"
+    },
+    {
+      "source": "bob.work.employeeIdInCompany",
+      "destination": "notion.properties.Employee ID.number"
+    },
+    {
+      "source": "bob.work.startDate",
+      "destination": "notion.properties.Joined.date.start"
+    },
+    {
+      "source": "bob.work.endDate",
+      "destination": "notion.properties.Joined.date.end"
+    },
+    {
+      "source": "bob.fullName",
+      "destination": "notion.properties.Name.title.0.text.content"
+    },
+    {
+      "source": "bob.fullName",
+      "destination": "notion.properties.Name.title.0.plain_text"
+    }
+  ]
+}
