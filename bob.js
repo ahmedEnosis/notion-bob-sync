@@ -7,7 +7,7 @@ export default class Bob {
     this.bobToken = bobToken;
   }
 
-  request(api, method = 'GET', payload = {}, query = {}) {
+  request(api, method = 'GET') {
     return fetch(api, {
       method,
       headers: {
@@ -22,7 +22,8 @@ export default class Bob {
     return this
       .request('https://api.hibob.com/v1/people')
       .then(data => {
-        return data.employees.filter(employee => lodash.get(employee, 'work.reportsToIdInCompany') === this.managerId);
+        return data.employees
+            .filter(employee => lodash.get(employee, 'work.reportsToIdInCompany') === parseInt(this.managerId));
       });
   }
 
