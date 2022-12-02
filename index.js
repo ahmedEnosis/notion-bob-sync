@@ -49,7 +49,7 @@ function processTeamMembers(bobTeamMembers, notionTeamMembers) {
         bob: member,
         notion: notionEmployeeMap[memberId]
       });
-      if (updatedData) {
+      if (updatedData && Object.keys(updatedData).length > 1) {
         employees.existing.push(updatedData);
       }
     } else {
